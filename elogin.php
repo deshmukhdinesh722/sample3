@@ -75,7 +75,7 @@
 <div class="container">
   <section id="content">
     <form action="" method="post">
-      <h1>Login Form</h1>
+      <h1>Employee Login</h1>
   
       <div>
         <input name=username type="text" placeholder="Enter Username" required>
@@ -87,6 +87,7 @@
       </div>
       <div>
         <input type="submit" value="Log in" />
+        <a class="btn btn-primary" href="mlogin.php">Back</a>
         <!-- <a href="index.php">Back to Home</a> -->
         <!-- <a href="">Forgot password?</a> -->
       </div>
